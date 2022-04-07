@@ -9,7 +9,7 @@ module.exports = {
     '@vue/typescript/recommended',
     '@vue/prettier',
     '@vue/prettier/@typescript-eslint',
-    'plugin:prettier/recommended'//使用eslint插件兼容格式化
+    'plugin:prettier/recommended' //使用eslint插件兼容格式化
   ],
   parserOptions: {
     ecmaVersion: 2020
